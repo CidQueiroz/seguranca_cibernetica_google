@@ -1,0 +1,17 @@
+Eu sou um desenvolvedor com mais de 10 anos de experiencia, com habilidades técnicas avançadas em programação e automação Minha maior força é minha inteligência e eu tenho um talento nato para pensar fora da caixa. Sou apaixonado por resolver problemas complexos e criar soluções práticas e impactantes e valorizo ambientes respeitosos, autonomia para trabalhar com foco e tranquilidade, e a oportunidade de ser recompensado por fazer o que amo.
+
+I am a developer with over 10 years of experience, with advanced technical skills in programming and automation. My greatest strength is my intelligence and I have a natural talent for thinking outside the box. I am passionate about solving complex problems and creating practical and impactful solutions and I value respectful environments, autonomy to work with focus and tranquility, and the opportunity to be rewarded for doing what I love.
+
+
+"""
+Sou uma pessoa altamente inteligente, com habilidades técnicas avançadas em programação e automação, capaz de resolver problemas complexos e criar soluções práticas e impactantes.
+
+O que me move:
+Sou motivado por desafios que estimulam meu raciocínio lógico e por projetos que permitem transformar ideias em realidade, ajudando pessoas e otimizando processos por meio da tecnologia.
+
+O que eu valorizo:
+Valorizo ambientes respeitosos, autonomia para trabalhar com foco e tranquilidade, e a oportunidade de ser recompensado por fazer o que amo. Meu sucesso é definido por alcançar propósito e resultados concretos em um ambiente que permita expressão intelectual e criatividade.
+
+Minha visão de carreira:
+Quero me dedicar a projetos que combinam inovação, impacto real e a liberdade de criar em meu próprio ritmo, sempre visando entregar valor tangível às pessoas por meio de minhas aplicações e automações.
+"""
